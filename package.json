@@ -1,0 +1,16 @@
+{
+  "name": "node-003",
+  "version": "0.0.1",
+  "description": "crea un archivo de texto con una tabla de multiplicar dependiendo del número base que ingreses.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hm": "node app --hm"
+  },
+  "author": "Cristian Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
